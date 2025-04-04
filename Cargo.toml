@@ -1,5 +1,5 @@
 [package]
-name = "aggregator_server"
+name = "data-aggregator-server"
 version = "0.1.0"
 edition = "2024"
 
